@@ -23,7 +23,9 @@ logger.log("Warning message from logger", "WARN");
 logger.log("Error message from logger", "ERROR");
 ```
 
-## Tests uages (will output few lines of log)
+![](https://cloud.githubusercontent.com/assets/179938/19187109/f499ae24-8c89-11e6-83e6-426545587f96.png "Output")
+
+## Tests usages (will output few lines of log)
   ```bash
   $ npm test
   ```
