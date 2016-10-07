@@ -15,7 +15,7 @@ var diff = require('fast-logger');
 
 ## Examples  
 ```javascript
-var logger = require('../index');
+var logger = require('fast-logger');
 logger.settings.logging = true;
 logger.log("Hello from logger");
 logger.log("Info message from logger", "INFO");
