@@ -1,0 +1,25 @@
+{
+  "name": "fast-logger",
+  "version": "0.0.1",
+  "description": "Simple nodejs logger",
+  "main": "index.js",
+  "scripts": {
+    "test": "node usage\\usage.js" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jarekmachaj/logger.git"
+  },
+  "keywords": [
+    "logger",
+    "node",
+    "log",
+    "console"
+  ],
+  "author": "Jarosław Machaj <czemuja@gmail.com> (http://machaj.net)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jarekmachaj/logger/issues"
+  },
+  "homepage": "https://github.com/jarekmachaj/logger#readme"
+}
